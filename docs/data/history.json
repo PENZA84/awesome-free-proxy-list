@@ -7,7 +7,7 @@
     "type": "socks5"
   },
   "101.36.104.46:10808": {
-    "anonymity": "elite",
+    "anonymity": "unknown",
     "country_code": "JP",
     "last_seen": "2026-10-02",
     "streak": 3,
@@ -18,13 +18,6 @@
     "country_code": "TH",
     "last_seen": "2026-10-02",
     "streak": 8,
-    "type": "socks5"
-  },
-  "103.118.85.75:1080": {
-    "anonymity": "elite",
-    "country_code": "BD",
-    "last_seen": "2026-10-02",
-    "streak": 1,
     "type": "socks5"
   },
   "103.151.20.131:80": {
@@ -55,13 +48,6 @@
     "streak": 5,
     "type": "http"
   },
-  "103.88.234.239:40002": {
-    "anonymity": "elite",
-    "country_code": "MX",
-    "last_seen": "2026-10-02",
-    "streak": 8,
-    "type": "socks5"
-  },
   "103.88.234.239:40012": {
     "anonymity": "elite",
     "country_code": "MX",
@@ -84,7 +70,7 @@
     "type": "socks5"
   },
   "104.225.220.233:80": {
-    "anonymity": "unknown",
+    "anonymity": "elite",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 1,
@@ -112,7 +98,7 @@
     "type": "socks5"
   },
   "107.152.98.5:4145": {
-    "anonymity": "unknown",
+    "anonymity": "elite",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 28,
@@ -147,7 +133,7 @@
     "type": "http"
   },
   "107.181.161.81:4145": {
-    "anonymity": "elite",
+    "anonymity": "unknown",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 18,
@@ -174,26 +160,12 @@
     "streak": 10,
     "type": "socks5"
   },
-  "109.207.187.15:1080": {
-    "anonymity": "elite",
-    "country_code": "RU",
-    "last_seen": "2026-10-02",
-    "streak": 1,
-    "type": "socks5"
-  },
   "115.239.234.43:7302": {
     "anonymity": "unknown",
     "country_code": "CN",
     "last_seen": "2026-10-02",
     "streak": 85,
     "type": "http"
-  },
-  "116.100.218.208:1080": {
-    "anonymity": "elite",
-    "country_code": "VN",
-    "last_seen": "2026-10-02",
-    "streak": 1,
-    "type": "socks4"
   },
   "116.202.108.111:3128": {
     "anonymity": "elite",
@@ -294,17 +266,10 @@
     "type": "http"
   },
   "141.148.206.170:1088": {
-    "anonymity": "elite",
+    "anonymity": "unknown",
     "country_code": "IN",
     "last_seen": "2026-10-02",
     "streak": 3,
-    "type": "socks5"
-  },
-  "141.95.95.223:1080": {
-    "anonymity": "unknown",
-    "country_code": "FR",
-    "last_seen": "2026-10-02",
-    "streak": 1,
     "type": "socks5"
   },
   "141.98.153.86:80": {
@@ -315,7 +280,7 @@
     "type": "http"
   },
   "142.54.226.214:4145": {
-    "anonymity": "elite",
+    "anonymity": "unknown",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 1,
@@ -336,7 +301,7 @@
     "type": "socks5"
   },
   "142.54.231.38:4145": {
-    "anonymity": "unknown",
+    "anonymity": "elite",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 1,
@@ -350,7 +315,7 @@
     "type": "socks5"
   },
   "142.54.236.97:4145": {
-    "anonymity": "elite",
+    "anonymity": "unknown",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 5,
@@ -399,25 +364,25 @@
     "type": "socks5"
   },
   "149.129.255.179:10443": {
-    "anonymity": "unknown",
+    "anonymity": "elite",
     "country_code": "ID",
     "last_seen": "2026-10-02",
     "streak": 1,
-    "type": "http"
+    "type": "https"
   },
   "149.129.255.179:4002": {
-    "anonymity": "unknown",
+    "anonymity": "elite",
     "country_code": "ID",
     "last_seen": "2026-10-02",
     "streak": 1,
-    "type": "http"
+    "type": "https"
   },
   "151.243.153.157:8118": {
-    "anonymity": "unknown",
+    "anonymity": "elite",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 1,
-    "type": "http"
+    "type": "https"
   },
   "151.243.236.236:80": {
     "anonymity": "elite",
@@ -425,13 +390,6 @@
     "last_seen": "2026-10-02",
     "streak": 1,
     "type": "http"
-  },
-  "152.53.183.107:8081": {
-    "anonymity": "elite",
-    "country_code": "DE",
-    "last_seen": "2026-10-02",
-    "streak": 8,
-    "type": "socks5"
   },
   "154.37.218.130:555": {
     "anonymity": "elite",
@@ -531,15 +489,8 @@
     "streak": 1,
     "type": "http"
   },
-  "168.144.72.32:1080": {
-    "anonymity": "elite",
-    "country_code": "IN",
-    "last_seen": "2026-10-02",
-    "streak": 2,
-    "type": "socks5"
-  },
   "170.205.37.145:443": {
-    "anonymity": "elite",
+    "anonymity": "unknown",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 1,
@@ -615,13 +566,6 @@
     "streak": 4,
     "type": "http"
   },
-  "177.234.217.88:999": {
-    "anonymity": "elite",
-    "country_code": "EC",
-    "last_seen": "2026-10-02",
-    "streak": 1,
-    "type": "http"
-  },
   "180.149.44.182:3128": {
     "anonymity": "elite",
     "country_code": "AZ",
@@ -636,15 +580,8 @@
     "streak": 1,
     "type": "http"
   },
-  "183.110.216.159:8091": {
-    "anonymity": "elite",
-    "country_code": "KR",
-    "last_seen": "2026-10-02",
-    "streak": 1,
-    "type": "http"
-  },
   "184.170.245.148:4145": {
-    "anonymity": "elite",
+    "anonymity": "unknown",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 34,
@@ -658,28 +595,28 @@
     "type": "socks4"
   },
   "184.170.249.65:4145": {
-    "anonymity": "elite",
+    "anonymity": "unknown",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 34,
     "type": "socks4"
   },
   "184.170.251.30:11288": {
-    "anonymity": "unknown",
+    "anonymity": "elite",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 5,
     "type": "socks4"
   },
   "184.178.172.11:4145": {
-    "anonymity": "elite",
+    "anonymity": "unknown",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 4,
     "type": "socks4"
   },
   "184.178.172.13:15311": {
-    "anonymity": "unknown",
+    "anonymity": "elite",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 8,
@@ -693,7 +630,7 @@
     "type": "socks4"
   },
   "184.178.172.17:4145": {
-    "anonymity": "elite",
+    "anonymity": "unknown",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 9,
@@ -714,14 +651,14 @@
     "type": "socks4"
   },
   "184.178.172.25:15291": {
-    "anonymity": "elite",
+    "anonymity": "unknown",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 4,
     "type": "socks4"
   },
   "184.178.172.26:4145": {
-    "anonymity": "unknown",
+    "anonymity": "elite",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 3,
@@ -742,7 +679,7 @@
     "type": "socks4"
   },
   "184.178.172.5:15303": {
-    "anonymity": "unknown",
+    "anonymity": "elite",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 5,
@@ -790,13 +727,6 @@
     "streak": 2,
     "type": "socks4"
   },
-  "185.133.213.86:8074": {
-    "anonymity": "elite",
-    "country_code": "MM",
-    "last_seen": "2026-10-02",
-    "streak": 1,
-    "type": "https"
-  },
   "185.133.239.244:16299": {
     "anonymity": "elite",
     "country_code": "DE",
@@ -810,13 +740,6 @@
     "last_seen": "2026-10-02",
     "streak": 5,
     "type": "http"
-  },
-  "185.195.71.218:18080": {
-    "anonymity": "elite",
-    "country_code": "CH",
-    "last_seen": "2026-10-02",
-    "streak": 8,
-    "type": "https"
   },
   "185.73.39.118:9999": {
     "anonymity": "elite",
@@ -861,7 +784,7 @@
     "type": "socks4"
   },
   "192.111.130.5:17002": {
-    "anonymity": "elite",
+    "anonymity": "unknown",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 8,
@@ -882,7 +805,7 @@
     "type": "socks4"
   },
   "192.111.137.34:18765": {
-    "anonymity": "unknown",
+    "anonymity": "elite",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 2,
@@ -909,26 +832,12 @@
     "streak": 1,
     "type": "http"
   },
-  "194.182.178.90:3128": {
-    "anonymity": "elite",
-    "country_code": "BG",
-    "last_seen": "2026-10-02",
-    "streak": 1,
-    "type": "https"
-  },
   "195.158.8.123:3128": {
     "anonymity": "elite",
     "country_code": "UZ",
     "last_seen": "2026-10-02",
     "streak": 1,
     "type": "https"
-  },
-  "195.19.217.200:3128": {
-    "anonymity": "elite",
-    "country_code": "RU",
-    "last_seen": "2026-10-02",
-    "streak": 1,
-    "type": "http"
   },
   "197.221.234.149:80": {
     "anonymity": "elite",
@@ -1005,14 +914,14 @@
     "country_code": "VN",
     "last_seen": "2026-10-02",
     "streak": 1,
-    "type": "https"
+    "type": "http"
   },
   "210.211.113.37:80": {
     "anonymity": "elite",
     "country_code": "VN",
     "last_seen": "2026-10-02",
     "streak": 1,
-    "type": "https"
+    "type": "http"
   },
   "213.111.146.36:18080": {
     "anonymity": "elite",
@@ -1064,7 +973,7 @@
     "type": "socks4"
   },
   "43.130.38.45:51029": {
-    "anonymity": "unknown",
+    "anonymity": "elite",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 1,
@@ -1099,14 +1008,14 @@
     "type": "socks4"
   },
   "47.252.18.37:8083": {
-    "anonymity": "unknown",
+    "anonymity": "elite",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 1,
     "type": "socks4"
   },
   "47.91.110.148:8888": {
-    "anonymity": "unknown",
+    "anonymity": "elite",
     "country_code": "AE",
     "last_seen": "2026-10-02",
     "streak": 1,
@@ -1176,7 +1085,7 @@
     "type": "socks4"
   },
   "70.166.167.38:57728": {
-    "anonymity": "unknown",
+    "anonymity": "elite",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 1,
@@ -1232,7 +1141,7 @@
     "type": "socks4"
   },
   "72.206.74.126:4145": {
-    "anonymity": "elite",
+    "anonymity": "unknown",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 1,
@@ -1267,7 +1176,7 @@
     "type": "socks4"
   },
   "74.119.147.209:4145": {
-    "anonymity": "unknown",
+    "anonymity": "elite",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 1,
@@ -1281,7 +1190,7 @@
     "type": "socks4"
   },
   "8.211.195.139:9080": {
-    "anonymity": "unknown",
+    "anonymity": "elite",
     "country_code": "GB",
     "last_seen": "2026-10-02",
     "streak": 1,
@@ -1301,13 +1210,6 @@
     "streak": 1,
     "type": "socks4"
   },
-  "8.219.94.23:7890": {
-    "anonymity": "unknown",
-    "country_code": "SG",
-    "last_seen": "2026-10-02",
-    "streak": 1,
-    "type": "socks4"
-  },
   "82.23.173.223:1080": {
     "anonymity": "elite",
     "country_code": "NL",
@@ -1316,21 +1218,21 @@
     "type": "socks4"
   },
   "85.209.156.148:1080": {
-    "anonymity": "elite",
-    "country_code": "US",
-    "last_seen": "2026-10-02",
-    "streak": 1,
-    "type": "socks4"
-  },
-  "98.170.57.231:4145": {
     "anonymity": "unknown",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 1,
     "type": "socks4"
   },
-  "98.170.57.249:4145": {
+  "98.170.57.231:4145": {
     "anonymity": "elite",
+    "country_code": "US",
+    "last_seen": "2026-10-02",
+    "streak": 1,
+    "type": "socks4"
+  },
+  "98.170.57.249:4145": {
+    "anonymity": "unknown",
     "country_code": "US",
     "last_seen": "2026-10-02",
     "streak": 1,
