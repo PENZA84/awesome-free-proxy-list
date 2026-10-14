@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-10-14T00:53:42+00:00",
+  "updated_utc": "2026-10-14T06:47:25+00:00",
   "counts": {
-    "http": 350,
-    "https": 162,
-    "socks4": 151,
-    "socks5": 158,
-    "all": 629,
-    "fast": 78,
-    "high_anon": 744,
-    "stable": 162
+    "http": 111,
+    "https": 51,
+    "socks4": 110,
+    "socks5": 90,
+    "all": 301,
+    "fast": 43,
+    "high_anon": 286,
+    "stable": 136
   },
   "categories": {
     "all": {
