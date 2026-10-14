@@ -25,17 +25,17 @@ curl -s https://raw.githubusercontent.com/Thordata/awesome-free-proxy-list/main/
 ## 📊 Live stats
 
 <!-- STATS:START -->
-Last update (UTC): **2026-10-14T06:47:25+00:00**
+Last update (UTC): **2026-10-14T12:42:10+00:00**
 
 > 🏆 **Top trusted: 20** — fast ∩ high-anon ∩ survived ≥2 days. The highest-success subset [`proxies/top-trusted.txt`](proxies/top-trusted.txt) (may be 0 on a fresh install before streaks accumulate).
 
 | Type | Working | Total Candidates |
 |---|---:|---:|
-| HTTP | 111 | 350 |
-| HTTPS | 51 | 350 |
-| SOCKS4 | 110 | 151 |
-| SOCKS5 | 90 | 158 |
-| ALL | 301 | 659 |
+| HTTP | 59 | 111 |
+| HTTPS | 24 | 111 |
+| SOCKS4 | 85 | 110 |
+| SOCKS5 | 65 | 90 |
+| ALL | 202 | 311 |
 <!-- STATS:END -->
 
 > Auto-injected by `scripts/update.py` on every run — no manual maintenance. Numbers fluctuate each run because free proxies live for minutes-to-hours.
