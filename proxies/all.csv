@@ -1,301 +1,209 @@
 ip,port,type,country,country_code,latency_ms,tier,anonymity,streak,asn,asn_org,ip_type,source,updated_utc
-191.101.1.116,80,http,United States,US,5.3,fast,unknown,1,47583,Hostinger International Limited,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-198.199.86.11,3128,http,United States,US,140.8,fast,elite,1,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-162.214.159.94,8085,http,United States,US,141.4,fast,elite,19,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-108.161.135.118,80,http,United States,US,142.2,fast,elite,1,55045,TekTonic,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-162.214.74.29,8085,http,United States,US,144.3,fast,elite,15,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-138.68.60.8,3128,http,United States,US,150.2,fast,elite,16,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-104.129.203.85,9480,https,United States,US,155.5,fast,elite,3,22616,"ZSCALER, INC.",unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-159.65.230.46,8888,http,United States,US,161.6,fast,elite,8,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-159.65.221.25,80,http,United States,US,163.2,fast,elite,1,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-174.138.119.88,80,http,United States,US,163.7,fast,elite,1,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-142.93.202.130,3128,http,United States,US,168.1,fast,elite,28,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-143.246.138.227,80,http,United States,US,189.1,fast,elite,3,213535,YottaSrc,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-165.154.162.73,8888,http,United States,US,191.1,fast,elite,3,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-184.75.221.82,3118,http,Canada,CA,204.3,fast,elite,4,32489,Amanah Tech Inc.,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-159.203.61.169,3128,http,Canada,CA,208.6,fast,elite,16,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-137.66.1.45,80,http,United States,US,235.9,fast,elite,45,40509,"Fly.io, Inc.",unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-12.50.107.222,80,http,United States,US,236.0,fast,elite,1,7018,"AT&T Enterprises, LLC",residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-12.50.107.217,80,http,United States,US,239.5,fast,elite,1,7018,"AT&T Enterprises, LLC",residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-108.131.152.118,1075,http,Ireland,IE,270.4,fast,elite,1,16509,"Amazon.com, Inc.",datacenter,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt,2026-10-15T06:47:45+00:00
-138.68.60.8,1080,socks5,United States,US,279.8,fast,elite,11,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-109.199.119.160,80,http,France,FR,309.0,fast,elite,47,51167,Contabo GmbH,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-16.163.88.228,80,http,Hong Kong,HK,353.0,fast,unknown,70,16509,"Amazon.com, Inc.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-195.26.224.135,80,http,The Netherlands,NL,370.8,fast,elite,1,216071,Servers Tech Fzco,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-134.209.29.120,3128,http,United Kingdom,GB,375.9,fast,elite,16,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-190.7.138.78,80,http,Colombia,CO,377.1,fast,unknown,1,13489,UNE EPM TELECOMUNICACIONES S.A.,unknown,https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt,2026-10-15T06:47:45+00:00
-194.150.110.134,80,http,Denmark,DK,380.5,fast,elite,1,31590,Rackhosting.com ApS,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-199.102.105.242,4145,socks4,United States,US,396.0,fast,unknown,1,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-103.164.55.81,3128,http,Singapore,SG,397.4,fast,elite,1,141995,Contabo Asia Private Limited,datacenter,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt,2026-10-15T06:47:45+00:00
-103.237.102.191,11111,http,Germany,DE,397.6,fast,elite,6,62610,Zenlayer Inc,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-104.200.135.46,4145,socks4,United States,US,399.0,fast,unknown,19,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-206.220.175.2,4145,socks4,United States,US,399.8,fast,unknown,1,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-165.154.236.214,80,http,Singapore,SG,400.4,fast,unknown,14,142002,Scloud Pte Ltd,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-107.152.98.5,4145,socks4,United States,US,400.4,fast,unknown,8,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-107.181.161.81,4145,socks4,United States,US,402.4,fast,unknown,31,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-162.253.68.97,4145,socks4,United States,US,405.4,fast,unknown,3,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-104.37.135.145,4145,socks4,United States,US,406.4,fast,unknown,2,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-192.252.220.92,17328,socks4,United States,US,407.6,fast,unknown,2,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-142.54.226.214,4145,socks4,United States,US,408.1,fast,unknown,2,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-142.54.229.249,4145,socks4,United States,US,408.7,fast,unknown,1,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-107.181.168.145,4145,socks4,United States,US,412.2,fast,unknown,3,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-116.202.108.111,3128,http,Germany,DE,412.3,fast,elite,1,24940,Hetzner Online GmbH,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-195.114.209.50,80,http,Spain,ES,415.7,fast,elite,1,57286,Gigas Hosting S.A.,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-104.200.152.30,4145,socks4,United States,US,419.3,fast,unknown,5,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-161.35.70.249,3128,http,Germany,DE,420.9,fast,elite,1,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt,2026-10-15T06:47:45+00:00
-103.156.17.83,8080,http,Indonesia,ID,426.8,fast,unknown,3,141077,RSTNET,unknown,https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt,2026-10-15T06:47:45+00:00
-176.111.37.5,39811,http,Hong Kong,HK,427.1,fast,elite,5,214743,Cogento Backbone Limited,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-139.162.78.109,3128,http,Japan,JP,441.7,fast,elite,8,63949,Akamai Connected Cloud,datacenter,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt,2026-10-15T06:47:45+00:00
-142.54.239.1,4145,socks5,United States,US,448.9,fast,unknown,1,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-142.54.237.38,4145,socks5,United States,US,451.3,fast,unknown,2,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-152.230.215.123,80,http,Chile,CL,451.6,fast,elite,1,14259,Gtd Internet S.A.,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-142.54.236.97,4145,socks5,United States,US,459.7,fast,unknown,1,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-142.54.228.193,4145,socks5,United States,US,459.9,fast,unknown,2,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-113.212.111.4,8090,http,Bangladesh,BD,477.1,fast,elite,1,136224,City Online Ltd.,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-185.135.69.34,80,http,Iraq,IQ,481.2,fast,elite,18,205889,Giga Nineveh for internet services Ltd,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-147.91.22.150,80,http,Serbia,RS,481.8,fast,elite,2,13092,Akademska mreza Republike Srbije - AMRES,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-115.239.234.43,7302,http,China,CN,482.9,fast,unknown,98,4134,Chinanet,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-140.238.14.161,8080,http,South Korea,KR,503.5,medium,elite,23,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-159.203.61.169,1080,socks5,Canada,CA,517.7,medium,elite,13,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-154.9.254.25,58080,http,United States,US,524.3,medium,elite,1,979,NetLab Global,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-107.174.30.92,1080,socks5,United States,US,525.5,medium,elite,2,27176,DataWagon LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-196.1.93.16,80,http,Senegal,SN,527.6,medium,elite,1,329407,Universite Cheikh Anta DIOP de DAKAR,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-107.174.30.94,1080,socks5,United States,US,535.9,medium,elite,3,27176,DataWagon LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-194.182.187.78,3128,http,Austria,AT,536.9,medium,elite,1,61098,Akenes SA,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-112.216.54.226,12121,http,South Korea,KR,561.5,medium,elite,1,3786,LG DACOM Corporation,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-190.110.226.122,80,http,Paraguay,PY,573.8,medium,elite,1,28103,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A),unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-103.170.185.226,80,http,Bangladesh,BD,579.8,medium,unknown,41,137385,Saddam Hossain t/a Asian Network,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-141.98.153.86,80,http,Germany,DE,581.0,medium,elite,8,51167,Contabo GmbH,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-134.185.85.16,3128,http,Singapore,SG,641.4,medium,elite,1,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-128.199.202.122,8080,http,Singapore,SG,647.2,medium,elite,16,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-130.110.103.245,3128,http,Saudi Arabia,SA,672.8,medium,elite,1,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-185.88.177.40,80,http,Iran,IR,680.7,medium,elite,2,201691,Fannavari Etelaate Samane Kavoshgar Ide Ltd.,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-103.28.37.131,3128,http,Vietnam,VN,692.4,medium,elite,1,131353,NhanHoa Software company,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-178.92.72.165,8080,http,India,IN,701.4,medium,unknown,1,134926,Micro Hosting Private Limited,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-143.42.66.91,80,http,Singapore,SG,702.6,medium,elite,3,63949,Akamai Connected Cloud,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-152.67.191.232,6800,http,India,IN,725.7,medium,elite,1,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt,2026-10-15T06:47:45+00:00
-144.31.146.10,8080,http,India,IN,730.6,medium,elite,1,134926,Micro Hosting Private Limited,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-20.33.10.79,80,http,South Africa,ZA,759.7,medium,elite,1,8069,Microsoft Corporation,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-103.88.234.239,40002,socks5,Mexico,MX,762.0,medium,elite,1,396356,Latitude.sh,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-139.59.1.14,8080,http,India,IN,768.8,medium,elite,3,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-102.244.78.61,8087,http,Cameroon,CM,770.4,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-102.244.78.61,8088,http,Cameroon,CM,771.9,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-102.244.78.61,8084,http,Cameroon,CM,772.9,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-102.244.78.61,8086,http,Cameroon,CM,774.6,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-102.244.78.61,8090,http,Cameroon,CM,774.6,medium,elite,4,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-102.244.78.61,8082,http,Cameroon,CM,774.7,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-102.244.78.61,8083,http,Cameroon,CM,775.6,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-102.244.78.61,8089,http,Cameroon,CM,776.0,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-102.244.78.61,8085,http,Cameroon,CM,778.6,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-102.244.78.61,8080,http,Cameroon,CM,780.9,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-154.65.39.8,80,http,Senegal,SN,781.5,medium,elite,1,37649,SAGA AFRICA HOLDINGS LIMITED,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-102.244.78.61,8081,http,Cameroon,CM,783.9,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-134.209.29.120,1080,socks5,United Kingdom,GB,826.7,medium,elite,13,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-193.176.242.186,80,http,Iran,IR,830.8,medium,unknown,1,202468,Noyan Abr Arvan Co. ( Private Joint Stock),unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-154.201.127.230,8080,http,India,IN,839.1,medium,elite,1,18229,CtrlS,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-139.162.78.109,1080,socks5,Japan,JP,839.5,medium,elite,12,63949,Akamai Connected Cloud,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-101.36.104.46,10808,socks5,Japan,JP,840.9,medium,elite,3,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-216.105.130.131,4145,socks4,United States,US,850.1,medium,elite,17,20081,NET2ATLANTA.COM LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-192.111.130.2,4145,socks4,United States,US,870.7,medium,elite,4,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-192.111.137.35,4145,socks4,United States,US,870.9,medium,elite,1,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-184.170.245.148,4145,socks4,United States,US,873.5,medium,elite,8,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-192.111.137.34,18765,socks4,United States,US,874.6,medium,elite,5,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-192.111.135.17,18302,socks4,United States,US,875.0,medium,elite,1,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-192.111.130.5,17002,socks4,United States,US,875.2,medium,elite,4,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-192.111.129.145,16894,socks4,United States,US,875.2,medium,elite,34,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-184.170.249.65,4145,socks4,United States,US,876.0,medium,elite,1,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-184.170.248.5,4145,socks4,United States,US,876.6,medium,elite,8,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-157.90.113.23,9052,socks4,Germany,DE,884.2,medium,elite,1,24940,Hetzner Online GmbH,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-31.77.19.92,443,socks4,Germany,DE,891.5,medium,elite,3,219337,Fzco,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-14.225.2.98,808,http,Vietnam,VN,905.0,medium,elite,1,135905,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-103.82.20.76,8080,http,Vietnam,VN,909.7,medium,elite,1,135905,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-161.35.70.249,1080,socks5,Germany,DE,941.2,medium,elite,13,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-152.67.217.8,1080,socks5,South Korea,KR,1066.3,medium,elite,1,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-167.99.236.14,80,http,United States,US,1074.2,medium,elite,1,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-68.1.210.189,4145,socks4,United States,US,1086.4,medium,elite,1,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-72.194.42.156,4145,socks4,United States,US,1094.8,medium,elite,2,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-101.36.104.239,10808,socks5,Japan,JP,1119.4,medium,elite,7,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-103.248.47.230,1080,socks5,Australia,AU,1128.9,medium,elite,1,133417,Dicker Data Ltd,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-72.194.42.131,4145,socks4,United States,US,1160.7,medium,unknown,2,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-123.58.219.171,10808,socks5,Hong Kong,HK,1163.6,medium,elite,2,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-103.43.191.71,8888,http,Singapore,SG,1165.6,medium,elite,1,139021,West263 International Limited,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-184.178.172.3,4145,socks4,United States,US,1166.9,medium,elite,18,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-72.207.33.64,4145,socks4,United States,US,1173.4,medium,elite,2,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-174.64.199.79,4145,socks4,United States,US,1191.6,medium,unknown,7,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-184.178.172.25,15291,socks4,United States,US,1191.7,medium,elite,9,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-174.64.199.82,4145,socks4,United States,US,1192.9,medium,elite,70,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-184.181.217.220,4145,socks4,United States,US,1193.2,medium,elite,1,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-184.178.172.18,15280,socks4,United States,US,1194.5,medium,elite,15,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-70.166.167.55,57745,socks4,United States,US,1195.6,medium,elite,2,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-24.249.199.12,4145,socks4,United States,US,1195.7,medium,unknown,4,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-68.1.210.163,4145,socks4,United States,US,1196.8,medium,unknown,1,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-184.178.172.14,4145,socks4,United States,US,1196.9,medium,elite,15,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-174.77.111.198,49547,socks4,United States,US,1197.0,medium,elite,75,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-184.178.172.5,15303,socks4,United States,US,1197.5,medium,elite,8,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-174.77.111.197,4145,socks4,United States,US,1198.2,medium,elite,8,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-184.181.217.213,4145,socks4,United States,US,1198.5,medium,elite,2,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-72.195.114.169,4145,socks4,United States,US,1199.6,medium,elite,1,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-24.249.199.4,4145,socks4,United States,US,1199.6,medium,unknown,4,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-72.195.114.184,4145,socks4,United States,US,1202.8,medium,unknown,2,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-184.178.172.11,4145,socks4,United States,US,1203.5,medium,elite,5,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-70.166.167.38,57728,socks4,United States,US,1203.7,medium,elite,2,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-72.195.101.99,4145,socks4,United States,US,1206.4,medium,unknown,1,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-184.178.172.17,4145,socks4,United States,US,1206.6,medium,elite,6,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-184.178.172.23,4145,socks4,United States,US,1207.0,medium,elite,5,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-174.77.111.196,4145,socks4,United States,US,1207.9,medium,elite,98,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-184.181.217.210,4145,socks4,United States,US,1208.5,medium,elite,1,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-72.207.109.5,4145,socks4,United States,US,1209.0,medium,elite,2,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-172.237.73.24,80,http,Singapore,SG,1212.1,medium,elite,1,63949,Akamai Connected Cloud,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-108.170.12.10,80,http,United States,US,1218.7,medium,elite,1,20454,SECURED SERVERS LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-1.175.92.132,5555,socks5,Taiwan,TW,1229.5,medium,elite,1,3462,Data Communication Business Group,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-116.203.27.109,80,http,Germany,DE,1247.7,medium,unknown,5,24940,Hetzner Online GmbH,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-66.42.224.229,41679,socks4,United States,US,1252.3,medium,elite,1,6181,Cincinnati Bell Telephone Company LLC,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-143.198.90.221,1088,socks5,Singapore,SG,1254.5,medium,elite,1,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-128.199.202.122,1080,socks5,Singapore,SG,1272.7,medium,elite,13,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-158.101.15.1,443,socks5,United States,US,1293.0,medium,elite,1,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-179.60.189.81,999,https,Ecuador,EC,1293.5,medium,elite,1,263238,Eliana Vanessa Morocho Ona,unknown,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt,2026-10-15T06:47:45+00:00
-69.61.200.104,36181,socks4,United States,US,1332.5,medium,elite,1,6181,Cincinnati Bell Telephone Company LLC,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-216.68.128.121,4145,socks4,United States,US,1335.7,medium,elite,1,6181,Cincinnati Bell Telephone Company LLC,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-208.102.51.6,58208,socks4,United States,US,1336.2,medium,elite,1,6181,Cincinnati Bell Telephone Company LLC,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-186.190.211.67,80,http,United Kingdom,GB,1344.2,medium,elite,1,63023,GTHost,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-184.182.240.211,4145,socks4,United States,US,1403.8,medium,elite,77,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-184.182.240.12,4145,socks4,United States,US,1407.0,medium,elite,37,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-156.38.112.11,80,http,Ghana,GH,1460.1,medium,elite,1,328212,THE UNIVERSITY OF CAPE COAST,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-138.68.235.51,80,http,United States,US,1501.7,medium,elite,1,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-144.24.111.128,1088,socks5,India,IN,1549.5,medium,elite,47,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-143.198.135.176,80,http,United States,US,1550.6,medium,elite,1,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-157.10.243.18,1080,socks5,Bangladesh,BD,1571.5,medium,elite,1,147006,Star IT,unknown,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt,2026-10-15T06:47:45+00:00
-144.31.146.190,8080,http,India,IN,1579.5,medium,elite,2,134926,Micro Hosting Private Limited,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-160.187.0.89,1080,socks5,Vietnam,VN,1596.7,medium,elite,2,152992,ONLINE DATA COMPANY LIMITED,unknown,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt,2026-10-15T06:47:45+00:00
-129.151.128.225,1080,socks5,United Arab Emirates,AE,1604.9,medium,elite,1,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-139.59.1.14,1080,socks5,India,IN,1614.2,medium,elite,13,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-107.161.178.244,3128,http,United States,US,1665.2,medium,elite,1,33182,"HostDime.com, Inc.",unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-194.182.178.90,3128,http,Bulgaria,BG,1719.9,medium,elite,1,61098,Akenes SA,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-118.179.205.159,9090,socks5,Bangladesh,BD,1720.4,medium,elite,2,23956,AmberIT Limited,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-195.63.135.47,10808,http,The Netherlands,NL,1727.5,medium,elite,2,216071,Servers Tech Fzco,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-31.129.107.119,443,socks4,Russia,RU,1793.6,medium,elite,1,198610,Beget LLC,unknown,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt,2026-10-15T06:47:45+00:00
-190.97.229.118,999,http,Venezuela,VE,1801.2,medium,elite,1,263703,VIGINET C.A,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-197.221.237.248,80,http,Zimbabwe,ZW,1877.5,medium,elite,1,37204,Telone PVT Ltd,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-116.104.251.199,1059,socks4,Vietnam,VN,2055.5,slow,elite,1,7552,Viettel Group,unknown,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt,2026-10-15T06:47:45+00:00
-103.155.196.47,8181,http,Indonesia,ID,2100.8,slow,elite,1,141071,PT Jembatan Data Pangrango,unknown,https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt,2026-10-15T06:47:45+00:00
-108.61.185.188,1080,socks5,Australia,AU,2280.2,slow,unknown,1,20473,"The Constant Company, LLC",unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-107.172.0.114,1081,socks5,United States,US,2333.7,slow,elite,1,36352,HostPapa,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-149.129.255.179,80,http,Indonesia,ID,2415.8,slow,elite,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-149.129.255.179,119,http,Indonesia,ID,2420.9,slow,elite,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-120.26.104.146,8008,http,China,CN,2423.2,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-106.14.104.220,80,http,China,CN,2423.9,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-190.12.150.244,999,http,Ecuador,EC,2425.5,slow,elite,2,271795,ONETELECOM CIA.LTDA.,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-103.36.11.18,8199,socks5,Indonesia,ID,2433.4,slow,elite,1,133360,PT Awinet Global Mandiri,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-121.46.226.221,10808,socks5,China,CN,2483.6,slow,elite,5,4811,China Telecom (Group),residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-109.202.0.25,1080,socks5,Russia,RU,2566.1,slow,unknown,1,25549,JSC ER-Telecom Holding,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-118.179.27.153,1080,socks5,Bangladesh,BD,2615.5,slow,elite,1,58656,bdHUB Limited,unknown,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt,2026-10-15T06:47:45+00:00
-187.86.59.122,80,http,Brazil,BR,2745.3,slow,elite,1,53065,Opcao Telecom,unknown,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt,2026-10-15T06:47:45+00:00
-159.194.228.40,8888,https,Russia,RU,2785.9,slow,elite,1,198610,Beget LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-108.170.12.14,80,http,United States,US,2897.5,slow,elite,1,20454,SECURED SERVERS LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-151.243.236.236,80,http,Canada,CA,2917.2,slow,elite,1,16276,OVH SAS,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-176.191.124.3,80,http,France,FR,2920.6,slow,elite,1,5410,Bouygues Telecom SA,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-161.22.32.31,8080,http,Venezuela,VE,3045.9,slow,elite,1,267789,TOP COMUNICATIONS ESTEGIA C.A.,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-116.104.251.199,1088,socks5,Vietnam,VN,3102.2,slow,elite,1,7552,Viettel Group,unknown,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt,2026-10-15T06:47:45+00:00
-167.99.124.118,80,http,United States,US,3159.1,slow,elite,2,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-188.165.199.207,80,http,France,FR,3175.9,slow,elite,1,16276,OVH SAS,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-58.187.26.252,1111,socks4,Vietnam,VN,3189.6,slow,elite,1,18403,FPT Telecom Company,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-196.223.129.21,80,http,South Africa,ZA,3234.4,slow,elite,1,328471,HERO TELECOMS (PTY) LTD,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-103.178.121.234,1080,socks5,Pakistan,PK,3390.1,slow,elite,2,136969,KK Networks (Pvt) Ltd.,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-1.20.178.212,80,http,Thailand,TH,3406.3,slow,elite,1,23969,TOT Public Company Limited,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-192.111.135.18,18301,socks4,United States,US,3457.3,slow,elite,6,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-118.179.144.113,9090,socks5,Bangladesh,BD,3536.5,slow,elite,1,23956,AmberIT Limited,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-110.76.144.112,1080,socks5,Indonesia,ID,3579.2,slow,elite,1,140481,PT Tonggak Teknologi Netikom,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-72.195.34.60,27391,socks4,United States,US,3591.2,slow,elite,2,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-163.47.37.190,1080,socks5,Bangladesh,BD,3598.6,slow,unknown,1,63961,Bangladesh Research and Education Network (BdREN),unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-124.41.225.101,1080,socks5,Nepal,NP,3639.7,slow,elite,1,17501,WorldLink Communications Pvt Ltd,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-175.107.30.110,8080,http,Pakistan,PK,3756.5,slow,elite,1,23888,"National Telecommunication Corporation HQ,",unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-110.38.233.122,1080,socks5,Pakistan,PK,3810.4,slow,elite,1,38264,National WiMAX/IMS environment,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-197.232.158.189,41890,http,Kenya,KE,3835.5,slow,elite,1,36866,Jamii Telecommunications Limited,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-190.60.34.250,999,https,Colombia,CO,3991.7,slow,elite,1,52468,UFINET PANAMA S.A.,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-155.103.158.243,1080,socks5,United States,US,4117.3,slow,elite,1,42960,VH Global Limited,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-116.97.240.124,1543,socks5,Vietnam,VN,4250.5,slow,elite,1,7552,Viettel Group,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-103.236.190.197,1080,socks5,Indonesia,ID,4432.6,slow,elite,1,63878,PT Victory Network Indonesia,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-118.70.151.55,1080,socks5,Vietnam,VN,4476.0,slow,unknown,1,18403,FPT Telecom Company,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-121.169.46.116,1090,socks5,South Korea,KR,4476.3,slow,elite,1,4766,Korea Telecom,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-198.244.254.77,3128,http,United Kingdom,GB,4482.1,slow,anonymous,1,16276,OVH SAS,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-158.101.99.182,1080,socks5,United States,US,4518.8,slow,elite,1,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-118.179.102.168,9090,socks5,Bangladesh,BD,4562.6,slow,elite,1,23956,AmberIT Limited,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-118.179.144.142,9090,socks5,Bangladesh,BD,4582.4,slow,unknown,1,23956,AmberIT Limited,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-103.176.187.228,9090,socks5,India,IN,4593.0,slow,unknown,2,138311,Limerick Technologies Pvt Ltd,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-14.225.240.23,8562,http,Vietnam,VN,4593.2,slow,elite,2,135905,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-103.151.20.131,80,http,Indonesia,ID,4728.5,slow,elite,1,141124,Dinas Komunikasi dan Informatika Kota Makassar,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-148.251.68.232,8888,socks5,Germany,DE,4743.4,slow,elite,3,24940,Hetzner Online GmbH,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-112.198.22.122,80,http,Philippines,PH,4746.4,slow,elite,1,4775,Globe Telecoms,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-183.110.216.128,8090,http,South Korea,KR,4749.4,slow,elite,1,4766,Korea Telecom,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-103.100.158.115,10809,socks5,Japan,JP,4771.7,slow,elite,10,51847,Nearoute Limited,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-186.180.20.18,8080,http,Colombia,CO,5229.9,slow,elite,1,13489,UNE EPM TELECOMUNICACIONES S.A.,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-150.140.148.235,80,http,Greece,GR,5285.6,slow,elite,3,5408,National Infrastructures for Research and Technology S.A.,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-194.31.108.109,2080,socks4,Iran,IR,5481.4,slow,elite,1,209783,Avaye Segal Net Co. PJS,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-152.67.22.144,1080,socks5,India,IN,5535.5,slow,elite,1,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-103.206.68.241,1080,socks5,Cambodia,KH,5542.4,slow,elite,1,23673,"Cogetel Online, Cambodia, ISP",unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-194.14.207.87,8001,http,Sweden,SE,5587.2,slow,elite,1,206170,Yelles AB,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-118.179.93.24,9090,socks5,Bangladesh,BD,5610.8,slow,elite,1,23956,AmberIT Limited,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-115.127.53.114,1080,socks5,Bangladesh,BD,5622.5,slow,elite,1,24342,BRACNet Limited,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-162.240.19.30,80,http,United States,US,5630.6,slow,elite,2,46606,Unified Layer,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-193.23.200.117,1091,socks4,Sweden,SE,5695.5,slow,elite,1,207957,Serv.host Group Ltd,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-151.185.58.17,80,http,India,IN,5704.2,slow,elite,3,132420,"282, Sector 19",unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-123.0.24.154,9090,socks5,Bangladesh,BD,5814.0,slow,elite,1,56054,Icon Infotech Limited,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-156.225.20.83,1080,socks5,Seychelles,SC,5995.2,slow,elite,4,401696,cognetcloud INC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-149.129.226.9,100,http,Indonesia,ID,6072.1,slow,unknown,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-149.129.226.9,41,http,Indonesia,ID,6080.0,slow,unknown,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-149.129.226.9,8080,http,Indonesia,ID,6080.7,slow,unknown,2,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-149.129.226.9,8081,http,Indonesia,ID,6089.9,slow,unknown,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-149.129.226.9,8118,http,Indonesia,ID,6099.3,slow,unknown,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-103.197.241.209,1080,socks5,Cambodia,KH,6283.5,slow,unknown,1,23673,"Cogetel Online, Cambodia, ISP",unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-164.52.11.194,18080,http,Taiwan,TW,6418.2,slow,elite,2,63199,"CDS Global Cloud Co., Ltd",unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-103.18.78.158,1080,socks5,Indonesia,ID,6511.1,slow,elite,1,55701,PT. Usaha Adisanggoro,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-183.91.88.226,8087,http,Indonesia,ID,6582.0,slow,elite,1,4800,PT Aplikanusa Lintasarta,unknown,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt,2026-10-15T06:47:45+00:00
-122.160.30.99,80,http,India,IN,6720.9,slow,elite,1,24560,"Bharti Airtel Ltd., Telemedia Services",residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-103.204.82.34,3212,http,Bangladesh,BD,6721.7,slow,unknown,1,63984,Nexdecade Technology Pvt. LTD,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-103.174.122.197,8199,socks5,Indonesia,ID,6808.4,slow,elite,1,147096,PT Jaya Sejahtra Nugraha,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-47.237.107.41,8083,socks4,Singapore,SG,6821.3,slow,elite,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-47.250.155.254,9098,socks4,Malaysia,MY,6832.6,slow,elite,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-47.237.92.86,80,socks4,Singapore,SG,6834.2,slow,elite,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-47.250.51.110,8080,socks4,Malaysia,MY,6842.7,slow,elite,2,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-119.148.20.109,22122,socks5,Bangladesh,BD,6864.1,slow,elite,1,23923,Agni Systems Limited,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-47.119.22.92,8443,socks4,China,CN,6899.5,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-39.102.214.192,6379,socks4,China,CN,6918.9,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-39.102.214.208,80,socks4,China,CN,6932.4,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-47.91.109.17,89,socks4,United Arab Emirates,AE,6935.6,slow,elite,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-47.91.110.148,8888,socks4,United Arab Emirates,AE,6944.6,slow,elite,5,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-47.91.115.179,9080,socks4,United Arab Emirates,AE,6945.1,slow,elite,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-47.121.129.129,9080,socks4,China,CN,6945.9,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-47.92.143.92,80,socks4,China,CN,6958.4,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-39.102.209.163,2022,socks4,China,CN,6968.6,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-39.104.59.56,8888,socks4,China,CN,6990.1,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-103.142.255.32,1080,socks5,Indonesia,ID,7027.5,slow,elite,1,139381,PT.CITRA BERDIKARI NUSANTARA,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-101.32.94.127,8089,socks5,Singapore,SG,7028.6,slow,elite,2,132203,"Tencent Building, Kejizhongyi Avenue",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-147.15.126.122,28080,http,Brazil,BR,7077.2,slow,elite,1,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-47.109.110.100,3128,socks4,China,CN,7182.3,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-114.111.151.41,80,http,Australia,AU,7211.4,slow,elite,1,45577,Intervolve Pty Ltd,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T06:47:45+00:00
-103.94.250.22,8080,http,Indonesia,ID,7433.1,slow,unknown,1,138884,PT Centronet Data Indonesia,unknown,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt,2026-10-15T06:47:45+00:00
-192.163.200.93,17071,socks4,United States,US,7996.0,slow,unknown,1,46606,Unified Layer,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-47.251.74.38,161,socks4,United States,US,8426.9,slow,elite,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-116.101.14.169,1088,socks4,Vietnam,VN,8530.2,slow,elite,1,7552,Viettel Group,unknown,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt,2026-10-15T06:47:45+00:00
-160.22.200.60,69,socks5,Indonesia,ID,8785.2,slow,elite,1,153070,PT Karangmukti Global Netmedia,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-150.136.58.221,1080,socks5,United States,US,9257.0,slow,elite,1,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-144.31.255.9,1080,socks5,Germany,DE,9729.4,slow,elite,1,213877,U1 Digital Services Ltd,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-110.235.240.223,1080,socks5,Cambodia,KH,10192.7,slow,elite,1,23673,"Cogetel Online, Cambodia, ISP",unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-118.71.140.246,1080,socks5,Vietnam,VN,10335.5,slow,elite,1,18403,FPT Telecom Company,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-103.191.218.119,69,socks5,Indonesia,ID,11134.6,slow,elite,1,149930,PT Replay Inti Media,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-117.134.203.58,10800,socks5,Pakistan,PK,11809.3,slow,unknown,1,138423,CMPak Limited,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-103.162.57.42,1080,socks5,Bangladesh,BD,12337.0,slow,unknown,1,139282,Novus Network,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-103.163.244.106,1080,socks5,India,IN,12435.4,slow,elite,1,132746,Infolink System,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-109.124.73.231,1080,socks5,Russia,RU,12940.5,slow,elite,1,20632,PJSC MegaFon,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-103.118.85.75,1080,socks5,Bangladesh,BD,14332.9,slow,unknown,1,137961,MD. Mokhlesur Rahman,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-163.176.179.226,1080,socks4,Brazil,BR,14354.9,slow,unknown,1,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-102.129.229.131,1081,socks5,Thailand,TH,14545.7,slow,elite,8,138156,"CSNE Co., Ltd.",unknown,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt,2026-10-15T06:47:45+00:00
-118.179.155.202,9090,socks5,Bangladesh,BD,15565.3,slow,elite,1,23956,AmberIT Limited,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T06:47:45+00:00
-103.151.42.242,1080,socks5,Pakistan,PK,15789.3,slow,elite,1,151330,PLAY BROADBAND (PRIVATE) LIMITED,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-116.101.14.169,1100,socks4,Vietnam,VN,16654.3,slow,elite,2,7552,Viettel Group,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-103.18.78.157,1080,socks5,Indonesia,ID,17266.0,slow,elite,1,55701,PT. Usaha Adisanggoro,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-118.179.151.158,9090,socks5,Bangladesh,BD,17381.9,slow,elite,2,23956,AmberIT Limited,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T06:47:45+00:00
-70.36.125.37,10808,socks4,United States,US,60213.8,slow,elite,1,22439,"Perfect International, Inc",unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-165.154.20.187,10808,socks4,Hong Kong,HK,66104.3,slow,elite,2,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-58.187.26.252,1119,socks4,Vietnam,VN,68064.8,slow,unknown,1,18403,FPT Telecom Company,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
-155.103.69.127,1314,socks4,Türkiye,TR,68533.2,slow,unknown,1,44382,"Fiba Cloud Operation Company, LLC",unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T06:47:45+00:00
+191.101.1.116,80,http,United States,US,24.0,fast,unknown,1,47583,Hostinger International Limited,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+162.214.74.29,8085,http,United States,US,110.3,fast,elite,15,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+138.68.60.8,3128,http,United States,US,124.8,fast,elite,16,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+104.129.203.85,9480,http,United States,US,125.3,fast,elite,3,22616,"ZSCALER, INC.",unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+159.65.230.46,8888,http,United States,US,135.5,fast,elite,8,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+162.214.159.94,8085,http,United States,US,152.3,fast,elite,19,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+174.138.119.88,80,http,United States,US,157.2,fast,elite,1,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+142.93.202.130,3128,http,United States,US,162.8,fast,elite,28,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+143.246.138.227,80,http,United States,US,169.2,fast,elite,3,213535,YottaSrc,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+198.199.86.11,3128,http,United States,US,173.6,fast,elite,1,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+12.50.107.222,80,http,United States,US,179.4,fast,elite,1,7018,"AT&T Enterprises, LLC",residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+12.50.107.217,80,http,United States,US,180.5,fast,elite,1,7018,"AT&T Enterprises, LLC",residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+184.75.221.82,3118,http,Canada,CA,187.2,fast,elite,4,32489,Amanah Tech Inc.,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+138.68.60.8,1080,socks5,United States,US,197.7,fast,elite,11,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+159.203.61.169,3128,http,Canada,CA,198.0,fast,elite,16,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+137.66.1.45,80,http,United States,US,279.1,fast,elite,45,40509,"Fly.io, Inc.",unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+109.199.119.160,80,http,France,FR,288.1,fast,elite,47,51167,Contabo GmbH,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+107.152.98.5,4145,socks4,United States,US,311.5,fast,elite,8,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+199.102.105.242,4145,socks4,United States,US,317.4,fast,elite,1,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+162.253.68.97,4145,socks4,United States,US,317.7,fast,elite,3,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+104.37.135.145,4145,socks4,United States,US,317.9,fast,unknown,2,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+104.200.135.46,4145,socks4,United States,US,321.0,fast,unknown,19,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+104.200.152.30,4145,socks4,United States,US,321.1,fast,unknown,5,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+142.54.229.249,4145,socks4,United States,US,321.3,fast,unknown,1,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+142.54.226.214,4145,socks4,United States,US,328.5,fast,unknown,2,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+192.252.220.92,17328,socks4,United States,US,329.1,fast,unknown,2,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+107.181.161.81,4145,socks4,United States,US,329.1,fast,unknown,31,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+206.220.175.2,4145,socks4,United States,US,336.3,fast,unknown,1,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+16.163.88.228,80,http,Hong Kong,HK,337.2,fast,unknown,70,16509,"Amazon.com, Inc.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+107.181.168.145,4145,socks4,United States,US,337.6,fast,unknown,3,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+134.209.29.120,3128,http,United Kingdom,GB,359.0,fast,elite,16,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+142.54.239.1,4145,socks5,United States,US,365.2,fast,unknown,1,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+195.26.224.135,80,http,The Netherlands,NL,365.7,fast,elite,1,216071,Servers Tech Fzco,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+142.54.236.97,4145,socks5,United States,US,365.8,fast,unknown,1,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+142.54.228.193,4145,socks5,United States,US,367.7,fast,unknown,2,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+142.54.237.38,4145,socks5,United States,US,368.8,fast,unknown,2,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+165.154.236.214,80,http,Singapore,SG,371.1,fast,unknown,14,142002,Scloud Pte Ltd,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+103.164.55.81,3128,http,Singapore,SG,376.6,fast,elite,1,141995,Contabo Asia Private Limited,datacenter,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt,2026-10-15T12:43:10+00:00
+103.237.102.191,11111,http,Germany,DE,380.2,fast,elite,6,62610,Zenlayer Inc,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+116.202.108.111,3128,http,Germany,DE,395.2,fast,elite,1,24940,Hetzner Online GmbH,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+161.35.70.249,3128,http,Germany,DE,397.9,fast,elite,1,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt,2026-10-15T12:43:10+00:00
+103.156.17.83,8080,http,Indonesia,ID,400.6,fast,unknown,3,141077,RSTNET,unknown,https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt,2026-10-15T12:43:10+00:00
+139.162.78.109,3128,http,Japan,JP,405.3,fast,elite,8,63949,Akamai Connected Cloud,datacenter,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt,2026-10-15T12:43:10+00:00
+190.7.138.78,80,http,Colombia,CO,408.5,fast,unknown,1,13489,UNE EPM TELECOMUNICACIONES S.A.,unknown,https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt,2026-10-15T12:43:10+00:00
+195.114.209.50,80,http,Spain,ES,435.3,fast,elite,1,57286,Gigas Hosting S.A.,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+115.239.234.43,7302,http,China,CN,435.3,fast,unknown,98,4134,Chinanet,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+107.174.30.94,1080,socks5,United States,US,435.7,fast,elite,3,27176,DataWagon LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+185.135.69.34,80,http,Iraq,IQ,451.5,fast,elite,18,205889,Giga Nineveh for internet services Ltd,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+159.203.61.169,1080,socks5,Canada,CA,457.4,fast,elite,13,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+113.212.111.4,8090,http,Bangladesh,BD,465.7,fast,elite,1,136224,City Online Ltd.,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+107.161.178.244,3128,http,United States,US,498.2,fast,elite,1,33182,"HostDime.com, Inc.",unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+103.170.185.226,80,http,Bangladesh,BD,533.5,medium,unknown,41,137385,Saddam Hossain t/a Asian Network,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+172.237.73.24,80,http,Singapore,SG,611.8,medium,elite,1,63949,Akamai Connected Cloud,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+141.98.153.86,80,http,Germany,DE,612.6,medium,elite,8,51167,Contabo GmbH,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+128.199.202.122,8080,http,Singapore,SG,617.8,medium,elite,16,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+140.238.14.161,8080,http,South Korea,KR,649.0,medium,elite,23,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+143.42.66.91,80,http,Singapore,SG,658.1,medium,elite,3,63949,Akamai Connected Cloud,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+185.88.177.40,80,http,Iran,IR,673.9,medium,elite,2,201691,Fannavari Etelaate Samane Kavoshgar Ide Ltd.,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+152.67.191.232,6800,http,India,IN,689.0,medium,elite,1,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt,2026-10-15T12:43:10+00:00
+187.86.59.122,80,http,Brazil,BR,732.7,medium,elite,1,53065,Opcao Telecom,unknown,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt,2026-10-15T12:43:10+00:00
+130.110.103.245,3128,http,Saudi Arabia,SA,752.7,medium,elite,1,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+134.209.29.120,1080,socks5,United Kingdom,GB,758.3,medium,elite,13,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+139.162.78.109,1080,socks5,Japan,JP,761.7,medium,elite,12,63949,Akamai Connected Cloud,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+139.59.1.14,8080,http,India,IN,773.8,medium,elite,3,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+101.36.104.46,10808,socks5,Japan,JP,776.6,medium,elite,3,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+192.111.135.18,18301,socks4,United States,US,798.8,medium,elite,6,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+102.244.78.61,8085,http,Cameroon,CM,800.3,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+102.244.78.61,8086,http,Cameroon,CM,800.4,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+216.105.130.131,4145,socks4,United States,US,800.4,medium,elite,17,20081,NET2ATLANTA.COM LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+102.244.78.61,8087,http,Cameroon,CM,800.7,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+192.111.137.35,4145,socks4,United States,US,801.5,medium,elite,1,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+184.170.248.5,4145,socks4,United States,US,802.1,medium,elite,8,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+192.111.137.34,18765,socks4,United States,US,802.8,medium,elite,5,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+102.244.78.61,8088,http,Cameroon,CM,803.6,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+176.111.37.5,39811,http,Hong Kong,HK,805.7,medium,elite,5,214743,Cogento Backbone Limited,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+192.111.135.17,18302,socks4,United States,US,806.7,medium,elite,1,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+102.244.78.61,8080,http,Cameroon,CM,806.7,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+102.244.78.61,8084,http,Cameroon,CM,807.0,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+192.111.129.145,16894,socks4,United States,US,807.1,medium,elite,34,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+102.244.78.61,8083,http,Cameroon,CM,807.5,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+102.244.78.61,8090,http,Cameroon,CM,808.1,medium,elite,4,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+192.111.130.2,4145,socks4,United States,US,810.3,medium,elite,4,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+184.170.249.65,4145,socks4,United States,US,811.9,medium,elite,1,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+102.244.78.61,8081,http,Cameroon,CM,811.9,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+192.111.130.5,17002,socks4,United States,US,812.6,medium,elite,4,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+184.170.245.148,4145,socks4,United States,US,818.8,medium,elite,8,46562,Performive LLC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+193.176.242.186,80,http,Iran,IR,822.3,medium,unknown,1,202468,Noyan Abr Arvan Co. ( Private Joint Stock),unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+102.244.78.61,8089,http,Cameroon,CM,828.9,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+102.244.78.61,8082,http,Cameroon,CM,835.2,medium,elite,1,36912,Orange Cameroun SA,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+134.185.85.16,3128,http,Singapore,SG,852.4,medium,elite,1,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+161.35.70.249,1080,socks5,Germany,DE,858.6,medium,elite,13,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+112.216.54.226,12121,https,South Korea,KR,874.3,medium,elite,1,3786,LG DACOM Corporation,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+152.67.217.8,1080,socks5,South Korea,KR,967.5,medium,elite,1,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+72.194.42.131,4145,socks4,United States,US,1025.9,medium,elite,2,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+101.36.104.239,10808,socks5,Japan,JP,1028.8,medium,elite,7,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+31.77.19.92,443,socks4,Germany,DE,1029.5,medium,elite,3,219337,Fzco,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+72.194.42.156,4145,socks4,United States,US,1032.0,medium,elite,2,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+24.249.199.4,4145,socks4,United States,US,1067.4,medium,elite,4,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+174.77.111.196,4145,socks4,United States,US,1068.1,medium,elite,98,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+70.166.167.38,57728,socks4,United States,US,1071.8,medium,elite,2,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+184.178.172.5,15303,socks4,United States,US,1076.5,medium,elite,8,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+184.181.217.210,4145,socks4,United States,US,1078.2,medium,elite,1,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+184.181.217.213,4145,socks4,United States,US,1086.8,medium,elite,2,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+174.64.199.82,4145,socks4,United States,US,1089.9,medium,elite,70,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+184.178.172.23,4145,socks4,United States,US,1089.9,medium,elite,5,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+72.195.114.184,4145,socks4,United States,US,1094.8,medium,elite,2,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+72.207.109.5,4145,socks4,United States,US,1097.2,medium,elite,2,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+184.178.172.14,4145,socks4,United States,US,1098.4,medium,elite,15,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+72.207.33.64,4145,socks4,United States,US,1104.1,medium,elite,2,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+68.1.210.163,4145,socks4,United States,US,1104.1,medium,unknown,1,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+184.178.172.18,15280,socks4,United States,US,1105.0,medium,elite,15,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+184.178.172.25,15291,socks4,United States,US,1111.8,medium,elite,9,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+184.178.172.17,4145,socks4,United States,US,1112.3,medium,elite,6,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+174.77.111.197,4145,socks4,United States,US,1112.7,medium,elite,8,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+174.77.111.198,49547,socks4,United States,US,1113.2,medium,elite,75,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+68.1.210.189,4145,socks4,United States,US,1113.5,medium,elite,1,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+72.195.101.99,4145,socks4,United States,US,1113.8,medium,elite,1,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+184.181.217.220,4145,socks4,United States,US,1114.0,medium,elite,1,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+174.64.199.79,4145,socks4,United States,US,1115.1,medium,elite,7,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+184.178.172.3,4145,socks4,United States,US,1117.3,medium,elite,18,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+72.195.34.60,27391,socks4,United States,US,1118.7,medium,elite,2,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+72.195.114.169,4145,socks4,United States,US,1119.2,medium,elite,1,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+24.249.199.12,4145,socks4,United States,US,1119.3,medium,elite,4,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+70.166.167.55,57745,socks4,United States,US,1119.5,medium,elite,2,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+184.178.172.11,4145,socks4,United States,US,1120.2,medium,elite,5,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+1.175.92.132,5555,socks5,Taiwan,TW,1155.9,medium,elite,1,3462,Data Communication Business Group,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+143.198.90.221,1088,socks5,Singapore,SG,1188.4,medium,elite,1,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+116.203.27.109,80,http,Germany,DE,1192.7,medium,unknown,5,24940,Hetzner Online GmbH,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+110.235.240.223,1080,socks5,Cambodia,KH,1347.1,medium,elite,1,23673,"Cogetel Online, Cambodia, ISP",unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+164.52.11.194,18080,http,Taiwan,TW,1353.5,medium,elite,2,63199,"CDS Global Cloud Co., Ltd",unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+144.24.111.128,1088,socks5,India,IN,1411.6,medium,elite,47,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+160.187.0.89,1080,socks5,Vietnam,VN,1444.8,medium,elite,2,152992,ONLINE DATA COMPANY LIMITED,unknown,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt,2026-10-15T12:43:10+00:00
+184.182.240.211,4145,socks4,United States,US,1458.2,medium,elite,77,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+103.176.187.228,9090,socks5,India,IN,1473.3,medium,elite,2,138311,Limerick Technologies Pvt Ltd,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+139.59.1.14,1080,socks5,India,IN,1529.1,medium,elite,13,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+128.199.202.122,1080,socks5,Singapore,SG,1735.9,medium,elite,13,14061,"DigitalOcean, LLC",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+184.182.240.12,4145,socks4,United States,US,1833.4,medium,elite,37,22773,Cox Communications Inc.,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+31.129.107.119,443,socks4,Russia,RU,1907.7,medium,unknown,1,198610,Beget LLC,unknown,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt,2026-10-15T12:43:10+00:00
+101.32.94.127,8089,socks5,Singapore,SG,1917.9,medium,elite,2,132203,"Tencent Building, Kejizhongyi Avenue",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+175.107.30.110,8080,https,Pakistan,PK,1966.1,medium,elite,1,23888,"National Telecommunication Corporation HQ,",unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+109.124.73.231,1080,socks5,Russia,RU,2073.4,slow,unknown,1,20632,PJSC MegaFon,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+123.58.219.171,10808,socks5,Hong Kong,HK,2081.2,slow,elite,2,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+149.129.255.179,119,http,Indonesia,ID,2398.5,slow,elite,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+149.129.255.179,80,http,Indonesia,ID,2401.0,slow,elite,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+106.14.104.220,80,http,China,CN,2402.9,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+119.148.20.109,22122,socks5,Bangladesh,BD,2429.2,slow,elite,1,23923,Agni Systems Limited,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+120.26.104.146,8008,http,China,CN,2439.2,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+152.67.22.144,1080,socks5,India,IN,2676.7,slow,elite,1,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+103.100.158.115,10809,socks5,Japan,JP,2769.3,slow,elite,10,51847,Nearoute Limited,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+20.33.10.79,80,https,South Africa,ZA,2812.5,slow,elite,1,8069,Microsoft Corporation,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+179.60.189.81,999,http,Ecuador,EC,2987.4,slow,elite,1,263238,Eliana Vanessa Morocho Ona,unknown,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt,2026-10-15T12:43:10+00:00
+103.174.122.197,8199,socks5,Indonesia,ID,2988.2,slow,elite,1,147096,PT Jaya Sejahtra Nugraha,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+155.103.158.243,1080,socks5,United States,US,3377.4,slow,elite,1,42960,VH Global Limited,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+150.136.58.221,1080,socks5,United States,US,3587.0,slow,elite,1,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+186.190.211.67,80,http,United Kingdom,GB,3864.6,slow,unknown,1,63023,GTHost,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+197.221.237.248,80,http,Zimbabwe,ZW,3935.6,slow,elite,1,37204,Telone PVT Ltd,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+110.38.233.122,1080,socks5,Pakistan,PK,4163.6,slow,elite,1,38264,National WiMAX/IMS environment,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+160.22.200.60,69,socks5,Indonesia,ID,4427.1,slow,elite,1,153070,PT Karangmukti Global Netmedia,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+156.225.20.83,1080,socks5,Seychelles,SC,4590.4,slow,elite,4,401696,cognetcloud INC,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+148.251.68.232,8888,socks5,Germany,DE,4655.4,slow,elite,3,24940,Hetzner Online GmbH,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+103.43.191.71,8888,http,Singapore,SG,4977.1,slow,elite,1,139021,West263 International Limited,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+193.23.200.117,1091,socks4,Sweden,SE,4991.8,slow,elite,1,207957,Serv.host Group Ltd,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+194.14.207.87,8001,http,Sweden,SE,5150.4,slow,elite,1,206170,Yelles AB,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+158.101.15.1,443,socks5,United States,US,5307.0,slow,elite,1,31898,Oracle Corporation,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+116.104.251.199,1059,socks5,Vietnam,VN,5525.9,slow,elite,1,7552,Viettel Group,unknown,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt,2026-10-15T12:43:10+00:00
+163.47.37.190,1080,socks5,Bangladesh,BD,5577.2,slow,unknown,1,63961,Bangladesh Research and Education Network (BdREN),unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+124.41.225.101,1080,socks5,Nepal,NP,5752.0,slow,unknown,1,17501,WorldLink Communications Pvt Ltd,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+103.162.57.42,1080,socks5,Bangladesh,BD,5776.6,slow,elite,1,139282,Novus Network,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+103.18.78.157,1080,socks5,Indonesia,ID,5938.0,slow,unknown,1,55701,PT. Usaha Adisanggoro,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+194.31.108.109,2080,socks4,Iran,IR,5951.7,slow,unknown,1,209783,Avaye Segal Net Co. PJS,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+103.178.121.234,1080,socks5,Pakistan,PK,6080.4,slow,elite,2,136969,KK Networks (Pvt) Ltd.,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+116.101.14.169,1100,socks4,Vietnam,VN,6103.1,slow,elite,2,7552,Viettel Group,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+150.140.148.235,80,http,Greece,GR,6522.5,slow,elite,3,5408,National Infrastructures for Research and Technology S.A.,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+47.237.107.41,8083,socks4,Singapore,SG,6759.5,slow,elite,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+47.250.51.110,8080,socks4,Malaysia,MY,6784.5,slow,elite,2,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+47.250.155.254,9098,socks4,Malaysia,MY,6804.0,slow,elite,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+123.0.24.154,9090,socks5,Bangladesh,BD,6823.7,slow,elite,1,56054,Icon Infotech Limited,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+47.121.129.129,9080,socks4,China,CN,6844.8,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+47.119.22.92,8443,socks4,China,CN,6855.3,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+39.102.209.163,2022,socks4,China,CN,6884.8,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+47.92.143.92,80,socks4,China,CN,6909.4,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+39.104.59.56,8888,socks4,China,CN,6911.7,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+39.102.214.192,6379,socks4,China,CN,6917.0,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+47.109.110.100,3128,socks4,China,CN,6931.1,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+47.91.110.148,8888,socks4,United Arab Emirates,AE,6980.0,slow,elite,5,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+47.91.109.17,89,socks4,United Arab Emirates,AE,6985.7,slow,elite,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+47.91.115.179,9080,socks4,United Arab Emirates,AE,7002.4,slow,elite,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+39.102.214.208,80,socks4,China,CN,7465.2,slow,elite,1,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+161.22.32.31,8080,https,Venezuela,VE,7693.7,slow,elite,1,267789,TOP COMUNICATIONS ESTEGIA C.A.,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+58.187.26.252,1111,socks4,Vietnam,VN,7997.2,slow,unknown,1,18403,FPT Telecom Company,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+103.204.82.34,3212,http,Bangladesh,BD,8288.4,slow,elite,1,63984,Nexdecade Technology Pvt. LTD,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt,2026-10-15T12:43:10+00:00
+47.237.92.86,80,socks4,Singapore,SG,8432.3,slow,elite,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+195.63.135.47,10808,socks4,The Netherlands,NL,8542.3,slow,elite,2,216071,Servers Tech Fzco,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+157.90.113.23,9052,socks4,Germany,DE,8656.2,slow,elite,1,24940,Hetzner Online GmbH,datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+118.179.102.168,9090,socks5,Bangladesh,BD,8672.2,slow,elite,1,23956,AmberIT Limited,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+118.179.151.158,9090,socks5,Bangladesh,BD,8791.6,slow,elite,2,23956,AmberIT Limited,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+157.10.243.18,1080,socks5,Bangladesh,BD,8861.5,slow,unknown,1,147006,Star IT,unknown,https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt,2026-10-15T12:43:10+00:00
+118.71.140.246,1080,socks5,Vietnam,VN,9826.6,slow,elite,1,18403,FPT Telecom Company,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+103.163.244.106,1080,socks5,India,IN,10386.2,slow,unknown,1,132746,Infolink System,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+144.31.255.9,1080,socks5,Germany,DE,10743.1,slow,unknown,1,213877,U1 Digital Services Ltd,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+118.70.151.55,1080,socks5,Vietnam,VN,11262.8,slow,elite,1,18403,FPT Telecom Company,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+118.179.93.24,9090,socks5,Bangladesh,BD,12476.3,slow,elite,1,23956,AmberIT Limited,unknown,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt,2026-10-15T12:43:10+00:00
+47.251.74.38,161,socks4,United States,US,12897.2,slow,elite,1,45102,"Alibaba (US) Technology Co., Ltd.",datacenter,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+103.191.218.119,69,socks5,Indonesia,ID,13207.7,slow,elite,1,149930,PT Replay Inti Media,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+118.179.205.159,9090,socks5,Bangladesh,BD,13264.0,slow,elite,2,23956,AmberIT Limited,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+118.179.144.113,9090,socks5,Bangladesh,BD,13284.7,slow,elite,1,23956,AmberIT Limited,unknown,https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt,2026-10-15T12:43:10+00:00
+216.68.128.121,4145,socks4,United States,US,64793.3,slow,elite,1,6181,Cincinnati Bell Telephone Company LLC,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
+69.61.200.104,36181,socks4,United States,US,65791.3,slow,elite,1,6181,Cincinnati Bell Telephone Company LLC,residential,https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt,2026-10-15T12:43:10+00:00
